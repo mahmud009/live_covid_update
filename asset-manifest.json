@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/live_covid_update/static/css/main.52b5e83c.chunk.css",
-    "main.js": "/live_covid_update/static/js/main.47d72aaa.chunk.js",
-    "main.js.map": "/live_covid_update/static/js/main.47d72aaa.chunk.js.map",
+    "main.js": "/live_covid_update/static/js/main.56894dce.chunk.js",
+    "main.js.map": "/live_covid_update/static/js/main.56894dce.chunk.js.map",
     "runtime-main.js": "/live_covid_update/static/js/runtime-main.1f00ba7b.js",
     "runtime-main.js.map": "/live_covid_update/static/js/runtime-main.1f00ba7b.js.map",
     "static/css/2.74189dbb.chunk.css": "/live_covid_update/static/css/2.74189dbb.chunk.css",
-    "static/js/2.0f5d1eaf.chunk.js": "/live_covid_update/static/js/2.0f5d1eaf.chunk.js",
-    "static/js/2.0f5d1eaf.chunk.js.map": "/live_covid_update/static/js/2.0f5d1eaf.chunk.js.map",
+    "static/js/2.89ad21e8.chunk.js": "/live_covid_update/static/js/2.89ad21e8.chunk.js",
+    "static/js/2.89ad21e8.chunk.js.map": "/live_covid_update/static/js/2.89ad21e8.chunk.js.map",
     "index.html": "/live_covid_update/index.html",
-    "precache-manifest.e62f808c742aeebe60eef8fa36beeaa2.js": "/live_covid_update/precache-manifest.e62f808c742aeebe60eef8fa36beeaa2.js",
+    "precache-manifest.e43d361fd19278ef52f0eb0b04c5c0ab.js": "/live_covid_update/precache-manifest.e43d361fd19278ef52f0eb0b04c5c0ab.js",
     "service-worker.js": "/live_covid_update/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/live_covid_update/static/css/2.74189dbb.chunk.css.map",
     "static/css/main.52b5e83c.chunk.css.map": "/live_covid_update/static/css/main.52b5e83c.chunk.css.map",
-    "static/js/2.0f5d1eaf.chunk.js.LICENSE.txt": "/live_covid_update/static/js/2.0f5d1eaf.chunk.js.LICENSE.txt",
+    "static/js/2.89ad21e8.chunk.js.LICENSE.txt": "/live_covid_update/static/js/2.89ad21e8.chunk.js.LICENSE.txt",
     "static/media/quarantine.png": "/live_covid_update/static/media/quarantine.84f1d79b.png",
     "static/media/shield.png": "/live_covid_update/static/media/shield.18407fba.png",
     "static/media/stay-home.png": "/live_covid_update/static/media/stay-home.7f1b657a.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.1f00ba7b.js",
     "static/css/2.74189dbb.chunk.css",
-    "static/js/2.0f5d1eaf.chunk.js",
+    "static/js/2.89ad21e8.chunk.js",
     "static/css/main.52b5e83c.chunk.css",
-    "static/js/main.47d72aaa.chunk.js"
+    "static/js/main.56894dce.chunk.js"
   ]
 }
